@@ -1,0 +1,19 @@
+body {
+  padding: 50px; }
+
+h2 {
+  margin: 20px 0; }
+
+.row .col {
+  background-color: #eee;
+  margin: 5px 0;
+  border: 1px solid #bababa;
+  height: 40px;
+  line-height: 40px;
+  text-align: center; }
+
+@media (max-width: 450px) {
+  .row .col {
+    max-width: 100% !important;
+    width: 100% !important;
+    flex: none; } }
