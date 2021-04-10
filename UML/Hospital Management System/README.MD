@@ -1,4 +1,4 @@
-User Assignment - 3
+#User Assignment - 3
 
 Problem Statement: Domain model for a hospital to show and explain hospital structure, staff, relationships with patients, and patient treatment terminology.
 
