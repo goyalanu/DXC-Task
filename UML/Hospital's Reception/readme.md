@@ -1,7 +1,7 @@
-###User Assignment -1###
+User Assignment -1
 
-##Purpose: 
-#Describe major services (functionality) provided by a hospital's reception.
+Purpose: 
+Describe major services (functionality) provided by a hospital's reception.
 
 Summary: This UML use case diagram has to shows actor and use cases for a hospital's reception. Hospital Reception subsystem or module supports some of the many job duties of a hospital receptionist. Receptionist schedules patient's appointment and admission to the hospital, collects information from the patient by phone and/or upon patient's arrival to the hospital.
 
